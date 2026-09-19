@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-🔭 Acabando mi proyecto final de ciclo<br><br>🌱 Aprendiendo Compose Multiplatform<br>
+🔭 Proyecto acabado ✨ Buscando oportunidades en el mundo laboral<br><br>🌱 Desarrollando mi portfolio web 🔥<br>
 
 
 ## 🌐 Socials:

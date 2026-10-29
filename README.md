@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-🔭 Proyecto acabado ✨ Buscando oportunidades en el mundo laboral<br><br>🌱 Desarrollando mi portfolio web 🔥<br>
+🔭 Proyecto acabado ✨ Buscando oportunidades en el mundo laboral<br><br>🌱 Desarrollando mi portfolio web 🔥<br>🌐 [Visita mi portfolio](https://ivabagba.github.io/PortfolioWeb-Agente/)<br>
 
 
 ## 🌐 Socials:
